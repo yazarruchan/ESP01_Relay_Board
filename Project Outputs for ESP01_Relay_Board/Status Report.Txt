@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ESP01_Relay.PcbDoc]
+   Generated File[ESP01_Relay.TXT]
+   Generated File[ESP01_Relay.LDP]
+   Generated File[ESP01_Relay.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:11:28 On 25.10.2023
